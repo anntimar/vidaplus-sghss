@@ -48,8 +48,8 @@ O projeto não utiliza frameworks ou dependências de produção, deixando a exe
 Clone o repositório e acesse a pasta:
 
 ```bash
-git clone URL_DESTE_REPOSITORIO
-cd SGHSS
+git clone https://github.com/anntimar/vidaplus-sghss.git
+cd vidaplus-sghss
 ```
 
 Inicie o servidor local:
