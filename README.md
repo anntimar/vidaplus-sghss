@@ -4,6 +4,10 @@ Protótipo funcional de front-end para o **Sistema de Gestão Hospitalar e de Se
 
 > Todos os nomes, documentos e informações clínicas exibidos são fictícios e destinados exclusivamente à demonstração acadêmica.
 
+## Demonstração online
+
+Acesse o sistema publicado em **[anntimar.github.io/vidaplus-sghss](https://anntimar.github.io/vidaplus-sghss/)**.
+
 ## Sobre o projeto
 
 A VidaPlus administra hospitais, clínicas, laboratórios e equipes de atendimento domiciliar. Esta aplicação demonstra como pacientes, profissionais de saúde e administradores podem acessar serviços integrados em uma interface única, responsiva e orientada à acessibilidade.
