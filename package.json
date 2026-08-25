@@ -1,0 +1,11 @@
+{
+  "name": "vidaplus-sghss",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Protótipo funcional front-end do Sistema de Gestão Hospitalar e de Serviços de Saúde",
+  "scripts": {
+    "start": "python -m http.server 4173",
+    "test": "node --test tests/*.test.js"
+  }
+}
